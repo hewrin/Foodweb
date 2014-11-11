@@ -1,0 +1,67 @@
+
+body {
+		background-color : #D2B48C;
+	}
+
+#topbar {
+		width:100%;
+		 background-color : #CD853F;
+		 height:100px;
+		}
+	
+#Logo {
+		 font-size : 35px;
+		
+		float : left; 
+		}
+#Links{
+		font-size: 25px;
+		font-color : black;
+		text-indent: 50px;
+		float : left;
+		width : 1200px;
+		height : 110px;
+		
+		
+		
+}
+
+
+#Links li {
+		
+		 
+		padding-right : 10px;
+		list-style : none;
+		float : left;
+		
+		}
+
+#Introduction {
+		margin : 50px
+			
+}
+
+#Introduction p {
+		font-size: 25px;
+			
+}
+
+#randomFood {
+			
+			float : right;
+			background-color : #A9A9A9;
+			width : 300px;
+			height : 500px;
+			}
+			
+table {
+		border : thin solid black;
+
+	}
+	
+td, th {
+
+	border : thin solid black;
+	padding : 5px;
+
+}

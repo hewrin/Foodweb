@@ -1,0 +1,25 @@
+<!doctype html>
+	<html>
+		<head>
+			<title>FoodStop</title>
+			<metacharset = "utf-8">
+			<link type ="text/css" rel = "stylesheet" href = "FoodStop.css"/>
+			
+			
+		</head>
+		<body>
+		<div class = "topOfPage">
+			<p>Name&Logo </p>
+			<p id = "Links">
+			<a href = "FoodStop.html" id = "homeLink">Home </a>
+			<a href = "location.html" id = "locLink">Location </a>
+			<a href = "Food Type.html" id = "foodtypeLink" >Food Type </a>
+			</p>
+		</div>
+		
+	
+			
+	
+	
+		</body>
+	</html>
